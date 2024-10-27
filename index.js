@@ -9,7 +9,7 @@ novinky.style.width = "60rem"
 
 const nadpis = document.querySelector("h1")
 nadpis.classList.add("news__title")
-nadpis.textContent = "Aktualni novinky"
+nadpis.textContent = "Aktualní novinky"
 
 const zprava1 = document.querySelector("#zprava1")
 zprava1.classList.add("post--main")
